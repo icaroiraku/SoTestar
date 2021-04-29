@@ -1,0 +1,12 @@
+
+
+.nome{
+    
+    height: 35px;
+    width: 440px;
+}
+.cpfCnpj {
+    border: 1px solid #CCC;
+    height: 35px;
+    width: 440px;
+}
